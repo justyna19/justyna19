@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justyna19
 - 👀 I’m interested in 
-- 🌱 I’m currently learning Linux and Java Script
+- 🌱 I’m currently learning HTML and Java Script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
